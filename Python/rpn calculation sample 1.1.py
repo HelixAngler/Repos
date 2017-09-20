@@ -42,5 +42,7 @@ while True:
             power()
         else:
             print("Syntax Error")
+    h.reverse()
     print(h)
+    h.reverse()
 
